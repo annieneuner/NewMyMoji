@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_smiley.png",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/drawable-hdpi/ic_smiley.png"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_popup_background.png",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/drawable-hdpi/bg_popup_background.png"
+    }
+]

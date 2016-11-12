@@ -1,0 +1,7 @@
+#Sat Nov 12 12:03:44 PST 2016
+base.0=/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_934b0e35d5032401dd12120c9f91ed1faf669edc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29063be26f57fcc73b99b430ff66495479bb4583/classes.dex
+base.1=/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29063be26f57fcc73b99b430ff66495479bb4583
+file.0=/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_934b0e35d5032401dd12120c9f91ed1faf669edc/classes.dex

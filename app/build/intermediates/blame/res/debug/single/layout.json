@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/chatlist_item.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/chatlist_item.xml"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/emoticons_popup.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/emoticons_popup.xml"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/footer.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/emoticons_item.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/emoticons_item.xml"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/text_layout.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/text_layout.xml"
+    },
+    {
+        "merged": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/build/intermediates/res/merged/debug/layout/emoticons_grid.xml",
+        "source": "/Users/annieneuner/AndroidStudioProjects/NewMyMoji/app/src/main/res/layout/emoticons_grid.xml"
+    }
+]
